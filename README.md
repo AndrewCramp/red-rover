@@ -9,6 +9,6 @@
 ## Solution: Red Rover
 * Interactive 3D application developed in Unity (C#)
 * Modelled partial solar system based on Newtonian physics
-* Allows user's to program commands for a rover on the surface of Mars
+* Allows users to program commands for a rover on the surface of Mars
 * Commands are sent flying through space, and are only executed after being received at Mars
 * Demonstrates the challenge of dealing with communication latency over vast distances in space
